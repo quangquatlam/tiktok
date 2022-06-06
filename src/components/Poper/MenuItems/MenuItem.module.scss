@@ -1,0 +1,19 @@
+.menuItem {
+    width: 230px;
+    .item {
+        margin-left: 0;
+    }
+}
+.item {
+    line-height: 1.8rem;
+    width: 100%;
+    justify-content: flex-start;
+    padding: 11px 16px;
+    border-radius: 0;
+    &:hover {
+        background: rgba(22, 24, 35, 0.03);
+    }
+}
+.menuPoper {
+    padding-bottom: 8px;
+}

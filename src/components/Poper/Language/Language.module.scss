@@ -1,0 +1,18 @@
+.popLanguage {
+    width: 100%;
+    position: relative;
+    height: 50px;
+    margin-top: -8px;
+}
+.btnBack {
+    height: 100%;
+    width: 50px;
+    cursor: pointer;
+    background: transparent;
+}
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
